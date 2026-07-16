@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-e13oh8.myfirstguide.com/sitemap.xml
